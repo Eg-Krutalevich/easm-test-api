@@ -22,8 +22,9 @@
 # Отчет о тестировании
 
 Выполненные тесты
+
 ![results](https://github.com/Eg-Krutalevich/easm-test-api/blob/master/images/report_1.jpg)
 
 Запросы и ответы в Allure
-![request_response](https://github.com/Eg-Krutalevich/easm-test-api/blob/master/images/report_2.jpg)
 
+![request_response](https://github.com/Eg-Krutalevich/easm-test-api/blob/master/images/report_2.jpg)
