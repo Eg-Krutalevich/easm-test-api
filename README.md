@@ -17,13 +17,13 @@
 
 Вероятнее всего на реальном проекте URL стендов будут отличаться.
 
-![contours]("https://github.com/Eg-Krutalevich/easm-test-api/images/conturs.jpg")
+![contours]("https://github.com/Eg-Krutalevich/easm-test-api/blob/master/images/conturs.jpg")
 
 # Отчет о тестировании
 
 Выполненные тесты
-![contours]("https://github.com/Eg-Krutalevich/easm-test-api/images/report_1.jpg")
+![results]("https://github.com/Eg-Krutalevich/easm-test-api/blob/master/images/report_1.jpg")
 
 Запросы и ответы в Allure
-![contours]("https://github.com/Eg-Krutalevich/easm-test-api/images/report_2.jpg")
+![request_response]("https://github.com/Eg-Krutalevich/easm-test-api/blob/master/images/report_2.jpg")
 
