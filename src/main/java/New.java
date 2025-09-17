@@ -35,4 +35,8 @@ public class New {
 
         System.out.println(func(persons));
     }
+
+    private void a() {
+
+    }
 }
