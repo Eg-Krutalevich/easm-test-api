@@ -39,4 +39,8 @@ public class New {
     private void a() {
 
     }
+
+    private void c() {
+
+    }
 }
