@@ -39,4 +39,9 @@ public class New {
     private void a() {
 
     }
+
+    private void c() {
+        System.out.println("Hello");
+        System.out.println("base");
+    }
 }
