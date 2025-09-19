@@ -52,4 +52,8 @@ public class New {
     private void c1() {
 
     }
+
+    private void d5() {
+
+    }
 }
