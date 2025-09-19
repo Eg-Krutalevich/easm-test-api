@@ -44,4 +44,12 @@ public class New {
         System.out.println("Hello");
         System.out.println("base");
     }
+
+    private void d () {
+
+    }
+
+    private void c1() {
+
+    }
 }
